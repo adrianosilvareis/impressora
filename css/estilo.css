@@ -1,0 +1,17 @@
+.corpo{
+	margin-top: 20px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 600px;
+	text-align: center;	
+	border: 2px solid lightgray;
+}
+.titulo{
+	margin-left: 10%;
+	float: left;
+}
+.voltar{
+	margin-top: 5%;
+	margin-right: 5%;
+	float: right;
+}
