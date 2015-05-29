@@ -6,6 +6,11 @@
 	text-align: center;	
 	border: 2px solid lightgray;
 }
+.cadastro{
+	height: 450px;
+	text-align: left;
+	padding: 20px;
+}
 .titulo{
 	margin-left: 10%;
 	float: left;
@@ -14,4 +19,14 @@
 	margin-top: 5%;
 	margin-right: 5%;
 	float: right;
+}
+.table td {
+   text-align: center;   
+}
+.table th {
+   text-align: center;   
+}
+.alert{
+	padding: 15px;
+	margin: 5px 10px;
 }
