@@ -1,8 +1,7 @@
 <?php 
 
- require_once 'CRUD.php';
- 
- class Contador extends CRUD{
+require_once 'CRUD.php';
+class Contador extends CRUD{
  
  	public $table = "contadores";
  	private $contador;
@@ -40,4 +39,4 @@
 		$stmt->bindParam(':id', $id);
 		return $stmt->execute();
  	}		
- }
+}		

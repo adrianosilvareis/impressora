@@ -1,7 +1,5 @@
 <?php 
 
-require_once 'CRUD.php';
-
 class Modelo extends CRUD{
 
 	public $table = "modelo";
